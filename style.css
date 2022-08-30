@@ -1,0 +1,44 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+}
+
+.header_div
+    {
+        color: #ffffff;
+    }
+
+    .header_div p{
+        font-family: 'Special Elite', cursive;
+        color: white;
+        letter-spacing: 0px;
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .main_div button{
+        font-family: 'Special Elite', cursive;
+        margin: 30px;
+        width: 130px;
+        font-weight: bolder;
+        letter-spacing: 3px;
+    }
+
+.copy_right_footer{
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    text-shadow: 5px 5px 4px rgb(255,255,255);
+}
+
+
+
+
+.background{
+    background-image: url("hjDWV1.png");
+    background-size:cover;
+}
